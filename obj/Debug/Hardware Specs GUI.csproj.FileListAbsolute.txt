@@ -1,0 +1,15 @@
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\bin\Debug\Hardware Specs GUI.exe.config
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\bin\Debug\Hardware Specs GUI.exe.manifest
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\bin\Debug\Hardware Specs GUI.application
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\bin\Debug\Hardware Specs GUI.exe
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\bin\Debug\Hardware Specs GUI.pdb
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.csproj.AssemblyReference.cache
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware_Specs_GUI.Form1.resources
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware_Specs_GUI.Properties.Resources.resources
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.csproj.GenerateResource.cache
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.exe.manifest
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.application
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.exe
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs GUI\obj\Debug\Hardware Specs GUI.pdb
